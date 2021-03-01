@@ -1,4 +1,4 @@
-### Hi there it's Ashish here.
+### Hi there, it's Ashish here.
 about me :
   - software developer using python and node js 
   - aspiring data science pursuer 

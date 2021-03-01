@@ -13,6 +13,11 @@ skills:
  
 Hobbies: Gaming, cricket
 
+Education :
+-  Pursuing BCA from MDU. 
+-  12 th from Jyoti Model School by CGPA of 6.4
+-  10 th from Jyoti Model School by CGPA of 7.8
+
  <!--
 **ashishsaini0194/ashishsaini0194** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

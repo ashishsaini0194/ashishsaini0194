@@ -8,7 +8,7 @@ skills:
  -  HTML5, CSS3, JavaScript, Typescript, jQuery
  -  Python, Node Js
  -  Django, Angular 
- -   Express, Ajax, JSON/XML, Git 
+ -  Express, Ajax, JSON/XML, Git 
  -  Databases : Mongo DB, My Sql, Postgre Sql
  
 Hobbies: Gaming, cricket

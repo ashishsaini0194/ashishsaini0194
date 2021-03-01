@@ -1,6 +1,19 @@
-### Hi there 👋
+### Hi there it's Ashish here.
+about me :
+  - software developer using python and node js 
+  - aspiring data science pursuer 
+  - having knowledge of both front end and backend tecknologies
 
-<!--
+skills:
+ -  HTML5, CSS3, JavaScript, Typescript, jQuery
+ -  Python, Node Js
+ -  Django, Angular 
+ -   Express, Ajax, JSON/XML, Git 
+ -  Databases : Mongo DB, My Sql, Postgre Sql
+ 
+Hobbies: Gaming, cricket
+
+ <!--
 **ashishsaini0194/ashishsaini0194** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:

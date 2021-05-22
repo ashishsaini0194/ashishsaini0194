@@ -7,7 +7,7 @@ about me :
 skills:
  -  HTML5, CSS3, JavaScript, Typescript, jQuery
  -  Python, Node Js
- -  Django, Angular, React Native
+ -  Django, Angular, React Native, React JS
  -  Express, Ajax, JSON/XML, Git 
  -  Databases : Mongo DB, My Sql, Postgre Sql
  

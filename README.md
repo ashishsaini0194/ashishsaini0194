@@ -2,7 +2,7 @@
 about me :
   - software developer using python and node js 
   - aspiring data science pursuer 
-  - having knowledge of both front end and backend tecknologies
+  - having knowledge of both front end and backend technologies
 
 skills:
  -  HTML5, CSS3, JavaScript, Typescript, jQuery

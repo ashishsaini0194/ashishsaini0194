@@ -5,13 +5,12 @@ about me :
   - having knowledge of both front end and backend technologies
 
 skills:
- -  HTML5, CSS3, JavaScript, Typescript, jQuery
- -  Python, Node Js
- -  Django, Angular, React Native, React JS
- -  Express, Ajax, JSON/XML, Git 
- -  Databases : Mongo DB, My Sql, Postgre Sql
- 
-Hobbies: Gaming, cricket
+-  HTML5, CSS3, JavaScript, jQuery, ejs 
+-  Node Js, Python 
+-  React [ Hooks, Redux, ES6 ], React Native   
+-  Express, Ajax, JSON/XML, Git, JWT, Bcrypt Hashing 
+-  Databases : Mongo DB, My Sql   
+-  Hobbies: Gaming
 
 Education :
 -  Pursuing BCA from MDU. 

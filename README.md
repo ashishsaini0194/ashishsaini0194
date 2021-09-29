@@ -13,7 +13,7 @@ skills:
 -  Hobbies: Gaming
 
 Education :
--  Pursuing BCA from MDU. 
+-  BCA from MDU (2021). 
 -  12 th from Jyoti Model School by CGPA of 6.4
 -  10 th from Jyoti Model School by CGPA of 7.8
 

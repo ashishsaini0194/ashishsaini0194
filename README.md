@@ -1,13 +1,12 @@
-### Hi there, it's Ashish here.
-about me :
-  - software developer using python and node js 
-  - aspiring data science pursuer 
-  - having knowledge of both front end and backend technologies
+### Hey, Ashish this side.
+About me :
+  - Software developer using React and Node js
+  - Having knowledge of both front end and backend technologies with some Dev Ops
 
-skills:
+Skills:
 -  HTML5, CSS3, JavaScript, jQuery, ejs 
--  Node Js, Python 
--  React [ Hooks, Redux, ES6 ], React Native   
+-  Node Js, NEST
+-  React [ Hooks, Redux, ES6 ], React Native, NEXT   
 -  Express, Ajax, JSON/XML, Git, JWT, Bcrypt Hashing 
 -  Databases : Mongo DB, My Sql   
 -  Hobbies: Gaming
